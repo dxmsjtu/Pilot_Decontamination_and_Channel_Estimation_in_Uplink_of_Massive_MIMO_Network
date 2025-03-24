@@ -6,7 +6,6 @@ clear all;
 %% Parameter
 L = 7;   % cells
 K = 10;   % users
-
 ant_M = 10:10:200;   % antenna elements
 Mm = length(ant_M);
 
